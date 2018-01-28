@@ -1,6 +1,6 @@
 
 // Old school
-let arr = ['Wayne', 'Francine', 'Selena']
+let arr = ['Wayne', 'Selena', 'Piglet']
 for (let i = 0; i <= arr.length - 1; i++) {
   console.log(arr[i])
 }
